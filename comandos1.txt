@@ -11,3 +11,5 @@
     A. cd /dev
     B. ls tty??
 
+5. ls tty*[1-4] o ls tty*[1,2,3,4]
+
