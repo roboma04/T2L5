@@ -4,3 +4,6 @@
 2.
     A. cd /tmp
     B. ls
+3.
+    A. cd /etc
+    B. ls t* | sort -r
