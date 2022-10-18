@@ -1,3 +1,6 @@
 1.
     A. cd /bin
     B. ls
+2.
+    A. cd /tmp
+    B. ls
