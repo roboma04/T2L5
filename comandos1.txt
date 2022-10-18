@@ -7,3 +7,7 @@
 3.
     A. cd /etc
     B. ls t* | sort -r
+4.
+    A. cd /dev
+    B. ls tty??
+
