@@ -1,3 +1,5 @@
 10. cd /tpm
 
 11. pwd
+
+12. date
