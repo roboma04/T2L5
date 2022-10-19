@@ -9,3 +9,5 @@
 14. pwd
 
 15. ls -i
+
+16. mkdir PRUEBA
