@@ -18,3 +18,7 @@
     C. mkdir dir3/dir31
     D. mkdir dir3/dir31/dir311
     E. mkdir dir3/dir31/dir312
+
+18. 
+    A. mkdir mensaje
+    B. touch /etc/hostname PRUEBA/mensaje
