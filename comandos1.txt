@@ -21,3 +21,6 @@
 8.
     A. cd /etc
     B. ls [^t]*
+9.
+    A. cd /usr
+    B. ls -R
