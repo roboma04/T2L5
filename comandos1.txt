@@ -18,3 +18,6 @@
 7. 
     A. cd /arrel
     B. ls -a
+8.
+    A. cd /etc
+    B. ls [^t]*
