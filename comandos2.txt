@@ -24,3 +24,5 @@
     B. touch /etc/hostname PRUEBA/mensaje
 
 19. cp mensaje /dir1 /dir2 /dir3
+
+20. ls -R PRUEBA
