@@ -5,3 +5,5 @@
 12. date
 
 13. cd /home
+
+14. pwd
