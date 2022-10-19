@@ -14,3 +14,7 @@
 5. ls tty*[1-4] o ls tty*[1,2,3,4]
 
 6. ls t*C1
+
+7. 
+    A. cd /arrel
+    B. ls -a
