@@ -11,3 +11,10 @@
 15. ls -i
 
 16. mkdir PRUEBA
+
+17.
+    A. mkdir dir1 dir2 dir3
+    B. mkdir dir1/dir11
+    C. mkdir dir3/dir31
+    D. mkdir dir3/dir31/dir311
+    E. mkdir dir3/dir31/dir312
